@@ -1,0 +1,10 @@
+D:\Binari\showEmployeeDetails\showEmployeeDetails\bin\Debug\showEmployeeDetails.exe.config
+D:\Binari\showEmployeeDetails\showEmployeeDetails\bin\Debug\showEmployeeDetails.exe
+D:\Binari\showEmployeeDetails\showEmployeeDetails\bin\Debug\showEmployeeDetails.pdb
+D:\Binari\showEmployeeDetails\showEmployeeDetails\obj\Debug\showEmployeeDetails.csprojAssemblyReference.cache
+D:\Binari\showEmployeeDetails\showEmployeeDetails\obj\Debug\showEmployeeDetails.Form1.resources
+D:\Binari\showEmployeeDetails\showEmployeeDetails\obj\Debug\showEmployeeDetails.Properties.Resources.resources
+D:\Binari\showEmployeeDetails\showEmployeeDetails\obj\Debug\showEmployeeDetails.csproj.GenerateResource.cache
+D:\Binari\showEmployeeDetails\showEmployeeDetails\obj\Debug\showEmployeeDetails.csproj.CoreCompileInputs.cache
+D:\Binari\showEmployeeDetails\showEmployeeDetails\obj\Debug\showEmployeeDetails.exe
+D:\Binari\showEmployeeDetails\showEmployeeDetails\obj\Debug\showEmployeeDetails.pdb
